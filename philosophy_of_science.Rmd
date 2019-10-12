@@ -1,0 +1,35 @@
+---
+title: "On Philosophy of Science"
+output:
+  tufte::tufte_html: default
+---
+
+Richard Feynman supposedly said that *philosophy of science is as useful to scientists as ornithology is to birds*. Einstein contradicts: *So many people today—and even professional scientists—seem to me like somebody who has seen thousands of trees but has never seen a forest. A knowledge of the historic and philosophical background gives that kind of independence from prejudices of his generation from which most scientists are suffering. This independence created by philosophical insight is—in my opinion—the mark of distinction between a mere artisan or specialist and a real seeker after truth*.
+
+If you share Einstein's view you can find a summary of some important works in philosophy of science below:
+
+## Introductory texts on Philosophy of Science
+
+* Francis Bacon, *The New Organon* (1620)
+* Rene Descartes, *Discourse on the Method* (1637)
+* David Hume, *An Enquiry concerning Human Understanding* (1748)
+* Immanuel Kant, *Answering the Question: What Is Enlightenment?* (1784)
+* John Stuart Mill, *On Liberty* (1859)
+* Karl Popper, *The Logic of Scientific Discovery* (1934)
+* Thomas Kuhn, *The Structure of Scientific Revolutions* (1962)
+* Rudolf Carnap, *The Logical Structure of the World* (1967)
+* Paul Feyerabend, *Against Method* (1975)
+
+## More
+
+* Aristotle, *Organon* (specifically Prior and Posterior Analytics)
+* John Stuart Mill, *A System of Logic* (1843)
+* Max Horkheimer, *Traditional and Critical Theory* (1937)
+* Ludwig Wittgenstein, *Philosophical Investigations* (1953)
+* Ronald A. Fisher, *Statistical Methods and Scientific Induction* (1955)
+* Richard C. Jeffrey, *Valuation and Acceptance of Scientific Hypotheses* (1956)
+* Paul Feyerabend, *Science in a Free Society* (1975)
+* Peter Medawar, *Is the scientific paper a fraud* (1963/1996)
+* Deborah Mayo, *Error and the Growth of Experimental Knowledge* (1996)
+* Monnerjahn Peter, *Kritischer Rationalismus als Aufklärung für das 21. Jahrhundert* (2016)
+* Deborah Mayo, *Statistical Inference as Severe Testing* (2018)
